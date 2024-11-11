@@ -16,10 +16,16 @@
     <Filter Include="Source Files\Trees">
       <UniqueIdentifier>{b9f60372-3b43-4da5-ae0e-6c4ec7e82088}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Arrays">
+      <UniqueIdentifier>{e53b59a8-a46f-442f-b9f9-4e07b8a2fd33}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="InvertBinaryTree.cpp">
       <Filter>Source Files\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Array\ResizableArray.cpp">
+      <Filter>Source Files\Arrays</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
