@@ -1,4 +1,4 @@
-//https://www.geeksforgeeks.org/problems/overlapping-rectangles1924/1
+//https://neetcode.io/problems/minimum-remove-to-make-valid-parentheses
 #include <vector>
 using namespace std;
 
